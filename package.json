@@ -1,0 +1,31 @@
+{
+  "name": "Kosh [Special Edition]",
+  "version": "4.0.0",
+  "description": "Full of fun commands, Kosh Special Edition is full of fun, with no rank limits.",
+  "main": "launcher.js",
+  "dependencies": {
+    "botlist.space": "^1.0.5",
+    "cookie-parser": "^1.4.3",
+    "discord.js-commando": "^0.11.0-dev",
+    "express": "^4.16.3",
+    "gifencoder": "^1.1.0",
+    "jimp": "^0.2.28",
+    "pokemon-random": "github:YaBoyWonder/pokemon-random",
+    "random-puppy": "^1.1.0",
+    "socket.io": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavwin/toasty.git"
+  },
+  "author": "gavwin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/RedstoneClaw101/discord-koshspecialbot/issues"
+  },
+  "homepage": "https://github.com/RedstoneClaw101/discord-koshspecialbot#readme"
+}

@@ -1,0 +1,25 @@
+{
+  "prefix": "/",
+  "token": "NDYyNDMxMzI2MzkwMTkwMDkx.Dhh9KQ.LG6aEE-A19dPza3SEY8fy2LhUqk",
+  "betaToken": "",
+  "oauth": "https://discordapp.com/api/oauth2/authorize?client_id=462431326390190091&permissions=8&scope=bot",
+  "me": "3602",
+  "sharding": {
+    "shardCount": "auto",
+    "spawnDelay": 5500,
+    "guildsPerShard": 1450,
+    "autoRespawn": true
+  },
+  "tokens": {
+    "discordbotspw": "",
+    "discordbotsorg": "",
+    "botlistspace": "",
+    "news": "",
+    "cleverbot": "",
+    "indico": "",
+    "youtube": "",
+    "weebsh": "",
+    "fortnite": ""
+  },
+  "use_keymetrics": false
+}
