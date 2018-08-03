@@ -2,7 +2,7 @@ const { SQLiteProvider, FriendlyError } = require('discord.js-commando');
 const readdir = require('util').promisify(require('fs').readdir);
 const path = require('path');
 const sqlite = require('sqlite');
-const { me, prefix, token } = require('./config');
+const { me, prefix, token } = require('./config.json');
 const KoshClient = require('./structures/KoshClient');
 const { oneLine, stripIndents } = require('common-tags');
 
