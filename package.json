@@ -2,7 +2,7 @@
   "name": "Kosh [Special Edition]",
   "version": "4.0.0",
   "description": "Full of fun commands, Kosh Special Edition is full of fun, with no rank limits.",
-  "main": "launcher.js",
+  "main": "Kosh.js",
   "dependencies": {
     "botlist.space": "^1.0.5",
     "cookie-parser": "^1.4.3",
@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gavwin/toasty.git"
+    "url": "git+https://github.com/jjbb1221/Classified-3.git"
   },
-  "author": "gavwin",
+  "author": "RedstoneClaw101",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/RedstoneClaw101/discord-koshspecialbot/issues"
+    "url": "https://github.com/jjbb1221/Classified-3/issues"
   },
-  "homepage": "https://github.com/RedstoneClaw101/discord-koshspecialbot#readme"
+  "homepage": "https://github.com/jjbb1221/Classified-3#readme"
 }
