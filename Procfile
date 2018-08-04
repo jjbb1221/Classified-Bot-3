@@ -1,1 +1,1 @@
-worker: node Kosh.js
+worker: node bot.js
